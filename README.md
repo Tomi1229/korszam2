@@ -1,2 +1,2 @@
 # korszam2
-csak simán korszám
+minden jó
